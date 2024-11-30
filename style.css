@@ -13,10 +13,10 @@ h3 {
 
 button {
   padding: 10px 20px;
-  margin: 10px;
+  margin: 10px; 
   font-size: 16px;
   background-color: #0f1950;
-  color: white;
+  color: white; 
   border: none;
   border-radius: 5px;
   cursor: cursor;
@@ -48,4 +48,9 @@ textarea {
 label {
   display: block;
   margin-bottom: 10px;
+}
+
+@font-face {
+  font-family: 'minecraft';
+  src: url('Fonts/F77-Minecraft.ttf');
 }
