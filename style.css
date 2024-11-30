@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'minecraft';
+  src: url('Fonts/Minecraft.otf');
+}
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
@@ -48,9 +53,4 @@ textarea {
 label {
   display: block;
   margin-bottom: 10px;
-}
-
-@font-face {
-  font-family: 'minecraft';
-  src: url('Fonts/F77-Minecraft.ttf');
 }
