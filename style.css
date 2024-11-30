@@ -1,7 +1,7 @@
-@font-face {
-  font-family: 'minecraft';
-  src: url('Fonts/Minecraft.otf');
-}
+@font-face { font-family: Minecraft; src: url('Minecraft.otf'); } 
+      h1 {
+         font-family: Minecraft
+      }
 
 body {
   font-family: Arial, sans-serif;
